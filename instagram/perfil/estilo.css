@@ -4,66 +4,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-header {
-    display: flex;
-    margin-left: 1rem;
-    margin-top: 1rem;
-}
-
-.nome {
-    margin-left: 4%;
-    margin-right: 65%;
-}
-
-.pontos {
-    float: right;
-}
-
-.desc {
-    margin-left: 1rem;
-    margin-top: 1rem;
-    display: flex;
-    justify-content: space-between;
-    justify-content: space-around;
-}
-
 .desc img {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-}
-
-.info {
-    display: flex;
-    align-items: center;
-}
-
-.dados {
-    margin-right: 1.5rem;
-}
-
-.bio {
-    margin-left: 1rem;
-    margin-top: 1rem;
-}
-
-small {
-    color: grey;
-}
-
-button {
-    margin-top: 1.5rem;
-    padding: 0.5rem 4rem;
-    margin-right: 1rem;
-}
-
-.destaque {
-    margin-left: 1rem;
-
-}
-
-.destaque p {
-    margin: 1.1rem;
 }
 
 .destaque img {
@@ -71,27 +15,4 @@ button {
     height: 70px;
     border-radius: 50%;
     margin-top: 1.5rem;
-}
-
-.navegacao {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 0.6rem;
-    margin-bottom: 0.6rem;
-}
-
-.feed {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column;
-}
-
-.fileira {
-    display: flex;
-    justify-content: space-around;
-}
-
-.foto img{
-    width: 160px;
-    height: 160px;
 }
